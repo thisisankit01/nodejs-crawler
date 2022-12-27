@@ -26,4 +26,3 @@ Copy code
 
 `node scraper.js`
 
-> This will scrape the specified number of pages on the IBBI website and save the details to a file named `details.json`. You can adjust the number of pages to be scraped by modifying the `totalPages` variable at the top of the script.
